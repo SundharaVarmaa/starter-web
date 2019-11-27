@@ -12,4 +12,6 @@ same as above
 
 ## How To Contribute
 
+### copyright
+git.training
 
