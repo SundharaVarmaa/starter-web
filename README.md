@@ -11,6 +11,7 @@ same as above
 same as above
 
 ## How To Contribute
+contribute
 
 ### copyright
 git.training
